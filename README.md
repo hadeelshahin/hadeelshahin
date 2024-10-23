@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm hadeel shahin</h1>
 <h3 align="center">A passionate Backend developer</h3>
+<h3 align="center">hadeel_shahin@outlook.com</h3>
+
 
 <p align="left">
 </p>
